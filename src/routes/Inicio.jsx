@@ -18,7 +18,7 @@ const Inicio = () => {
         <div className="flex place-items-start justify-self-center ">
           <CardEstadis />
         </div>
-        <CardEfectivo />
+
         <div className="row-span-4 flex justify-center items-center max-h-full">
           <div
             className="bg-[#09BF1B] cursor-pointer hover:bg-[#04e71a] rounded-xl text-5xl text-white px-28 py-24"
